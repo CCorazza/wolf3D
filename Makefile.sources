@@ -1,0 +1,6 @@
+SRC =	\
+		ft_draw.c \
+		ft_lines.c \
+		ft_map.c \
+		ft_tools.c \
+		main.c
